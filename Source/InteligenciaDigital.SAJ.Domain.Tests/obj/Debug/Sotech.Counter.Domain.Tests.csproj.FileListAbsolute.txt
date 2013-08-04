@@ -1,0 +1,5 @@
+C:\Users\paulo_000\documents\visual studio 2012\Projects\Sotech.Counter\Sotech.Counter.Domain.Tests\bin\Debug\Sotech.Counter.Domain.Tests.dll
+C:\Users\paulo_000\documents\visual studio 2012\Projects\Sotech.Counter\Sotech.Counter.Domain.Tests\bin\Debug\Sotech.Counter.Domain.Tests.pdb
+C:\Users\paulo_000\documents\visual studio 2012\Projects\Sotech.Counter\Sotech.Counter.Domain.Tests\obj\Debug\Sotech.Counter.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\paulo_000\documents\visual studio 2012\Projects\Sotech.Counter\Sotech.Counter.Domain.Tests\obj\Debug\Sotech.Counter.Domain.Tests.dll
+C:\Users\paulo_000\documents\visual studio 2012\Projects\Sotech.Counter\Sotech.Counter.Domain.Tests\obj\Debug\Sotech.Counter.Domain.Tests.pdb
