@@ -50,11 +50,11 @@
     <Compile Include="Services\ServidorTEFService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Sotech.Counter.Domain\InteligenciaDigital.SAJ.Domain.csproj">
+    <ProjectReference Include="..\InteligenciaDigital.SAJ.Domain\InteligenciaDigital.SAJ.Domain.csproj">
       <Project>{9148935B-53ED-4098-AB18-105D1D2E2BC0}</Project>
       <Name>InteligenciaDigital.SAJ.Domain</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Sotech.Counter.Repository\InteligenciaDigital.SAJ.Repository.csproj">
+    <ProjectReference Include="..\InteligenciaDigital.SAJ.Repository\InteligenciaDigital.SAJ.Repository.csproj">
       <Project>{055d2ff7-8fd1-4330-b79c-34ae8b7982d9}</Project>
       <Name>InteligenciaDigital.SAJ.Repository</Name>
     </ProjectReference>

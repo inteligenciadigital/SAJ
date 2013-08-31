@@ -498,15 +498,15 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Sotech.Counter.Domain\InteligenciaDigital.SAJ.Domain.csproj">
+    <ProjectReference Include="..\InteligenciaDigital.SAJ.Domain\InteligenciaDigital.SAJ.Domain.csproj">
       <Project>{9148935b-53ed-4098-ab18-105d1d2e2bc0}</Project>
       <Name>InteligenciaDigital.SAJ.Domain</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Sotech.Counter.Repository\InteligenciaDigital.SAJ.Repository.csproj">
+    <ProjectReference Include="..\InteligenciaDigital.SAJ.Repository\InteligenciaDigital.SAJ.Repository.csproj">
       <Project>{055d2ff7-8fd1-4330-b79c-34ae8b7982d9}</Project>
       <Name>InteligenciaDigital.SAJ.Repository</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Sotech.Counter.Service\InteligenciaDigital.SAJ.Service.csproj">
+    <ProjectReference Include="..\InteligenciaDigital.SAJ.Service\InteligenciaDigital.SAJ.Service.csproj">
       <Project>{0D62207B-6AC0-4A8D-9780-11C4F07F8A03}</Project>
       <Name>InteligenciaDigital.SAJ.Service</Name>
     </ProjectReference>
