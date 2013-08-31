@@ -103,7 +103,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Sotech.Counter.Web\InteligenciaDigital.SAJ.Web.csproj">
+    <ProjectReference Include="..\InteligenciaDigital.SAJ.Web\InteligenciaDigital.SAJ.Web.csproj">
       <Project>{7E4E5E52-65C9-471F-BB51-91D5EA32BFFE}</Project>
       <Name>InteligenciaDigital.SAJ.Web</Name>
     </ProjectReference>

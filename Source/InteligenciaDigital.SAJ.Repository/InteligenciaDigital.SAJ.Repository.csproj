@@ -48,6 +48,10 @@
     <Compile Include="Migrations\201303192224012_Criando ServidorTEF.Designer.cs">
       <DependentUpon>201303192224012_Criando ServidorTEF.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201308311610180_Remoco de Usuaio.cs" />
+    <Compile Include="Migrations\201308311610180_Remoco de Usuaio.Designer.cs">
+      <DependentUpon>201308311610180_Remoco de Usuaio.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Repositories\BaseRepository.cs" />
     <Compile Include="Entity\DatabaseFactory.cs" />
@@ -61,11 +65,11 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Sotech.Counter.Domain\InteligenciaDigital.SAJ.Domain.csproj">
+    <ProjectReference Include="..\InteligenciaDigital.SAJ.Domain\InteligenciaDigital.SAJ.Domain.csproj">
       <Project>{9148935B-53ED-4098-AB18-105D1D2E2BC0}</Project>
       <Name>InteligenciaDigital.SAJ.Domain</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Sotech.Counter.FakeObjects\InteligenciaDigital.SAJ.FakeObjects.csproj">
+    <ProjectReference Include="..\InteligenciaDigital.SAJ.FakeObjects\InteligenciaDigital.SAJ.FakeObjects.csproj">
       <Project>{C94E62D2-AB09-4048-B3C5-52E1ADE5750C}</Project>
       <Name>InteligenciaDigital.SAJ.FakeObjects</Name>
     </ProjectReference>
@@ -73,6 +77,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201303192224012_Criando ServidorTEF.resx">
       <DependentUpon>201303192224012_Criando ServidorTEF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201308311610180_Remoco de Usuaio.resx">
+      <DependentUpon>201308311610180_Remoco de Usuaio.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -43,7 +43,7 @@
     <Compile Include="ServidorTEFFakes.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Sotech.Counter.Domain\InteligenciaDigital.SAJ.Domain.csproj">
+    <ProjectReference Include="..\InteligenciaDigital.SAJ.Domain\InteligenciaDigital.SAJ.Domain.csproj">
       <Project>{9148935b-53ed-4098-ab18-105d1d2e2bc0}</Project>
       <Name>InteligenciaDigital.SAJ.Domain</Name>
     </ProjectReference>
